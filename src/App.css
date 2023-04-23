@@ -1,0 +1,30 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #636c95;
+}
+.center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+.button{
+  height: 60px;
+  width: 150px;
+  background-color:rgb(120, 39, 116);
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+h1{
+  text-shadow: 3px;
+  color:#05183b;
+  opacity: 0.5;
+  font-size: large;
+  font-size: 200px;
+}
+
